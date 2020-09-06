@@ -1,0 +1,7 @@
+{
+  "require": {
+      "monolog/monolog": "1.0.*",
+    "spomky-labs/otphp": "^10.0"
+      
+  }
+}
